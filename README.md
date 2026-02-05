@@ -30,14 +30,14 @@ This portfolio aggregates implementations of State-of-the-Art models, ranging fr
 
 ### 🧠 Agentic AI
 *Engineering autonomous systems using **LangGraph** and **Multi-Agent** frameworks for complex decision-making.*
-*   **[Agentic Web Search Bot](./Agentic%20AI/Agentic%20Web%20Search%20Bot)**: Autonomous research agent fetching and summarizing web content using Ollama and Tavily.
-*   **[LangChain Pipelines with Flan-T5](./Agentic%20AI/LangChain%20Pipelines%20with%20Flan-T5.ipynb)**: Orchestrating multi-step LLM workflows and memory using LangChain ecosystem.
-*   **[Multi-Agent Penguin Simulation](./Agentic%20AI/Multi-Agent%20Penguin%20Simulation)**: Multi-agent environment where autonomous entities interact using smolagents framework.
-*   **[Stateful Interactive Agent (LangGraph)](./Agentic%20AI/Stateful%20Interactive%20Agent%20(LangGraph).ipynb)**: Recursive stateful BaristaBot with persistent memory and tools via LangGraph.
+*   **[Agentic Web Search Bot](./Agentic%20AI/Agentic%20Web%20Search%20Bot)**: Autonomous web research agent utilizing Ollama and Tavily.
+*   **[LangChain Pipelines with Flan-T5](./Agentic%20AI/LangChain%20Pipelines%20with%20Flan-T5.ipynb)**: Orchestrating stateful multi-step LLM workflows with LangChain.
+*   **[Multi-Agent Penguin Simulation](./Agentic%20AI/Multi-Agent%20Penguin%20Simulation)**: Autonomous multi-agent environment powered by smolagents.
+*   **[Stateful Interactive Agent (LangGraph)](./Agentic%20AI/Stateful%20Interactive%20Agent%20(LangGraph).ipynb)**: Recursive stateful BaristaBot with persistent memory via LangGraph.
 
 ### 🤖 Chatbot AI
 *Designing conversational interfaces with sophisticated **Memory Management** and privacy controls.*
-*   **[BlenderBot Transformer Interface](./Chatbot%20AI/BlenderBot%20Transformer%20Interface.ipynb)**: Interactive conversational interface using Hugging Face Transformers and Gradio with BlenderBot model.
+*   **[BlenderBot Transformer Interface](./Chatbot%20AI/BlenderBot%20Transformer%20Interface.ipynb)**: BlenderBot chat interface built with Hugging Face Transformers and Gradio.
 *   **[Mistral 7B Local Chatbot](./Chatbot%20AI/Mistral%207B%20Local%20Chatbot.ipynb)**: Context-aware local chatbot with extensive memory built on LangChain, llama.cpp and Streamlit.
 
 ### 🗣 Conversational Voice Agents
