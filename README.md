@@ -51,15 +51,15 @@ This portfolio aggregates implementations of State-of-the-Art models, ranging fr
 
 ### 👁 Computer Vision
 *Implementing **Convolutional Neural Networks (CNN)** and advanced architectures for image recognition and classification.*
-*   **[Cats vs Dogs Classification](./Computer%20Vision/Cats%20vs%20Dogs%20Classification.ipynb)**: Binary image classification pipeline using CNNs with data augmentation and dropout regularization.
-*   **[CNN vs Dense Architecture Benchmark](./Computer%20Vision/CNN%20vs%20Dense%20Architecture%20Benchmark.ipynb)**: Benchmark comparison between Fully Connected and Convolutional Neural Networks on MNIST dataset.
-*   **[Flower Classification & Augmentation](./Computer%20Vision/Flower%20Classification%20&%20Augmentation.ipynb)**: Multi-class flower recognition system utilizing CNNs and advanced image preprocessing techniques.
+*   **[Cats vs Dogs Classification](./Computer%20Vision/Cats%20vs%20Dogs%20Classification.ipynb)**: Binary image classification with CNNs, data augmentation, and dropout.
+*   **[CNN vs Dense Architecture Benchmark](./Computer%20Vision/CNN%20vs%20Dense%20Architecture%20Benchmark.ipynb)**: Benchmark comparison between Fully Connected and Convolutional Networks on MNIST.
+*   **[Flower Classification & Augmentation](./Computer%20Vision/Flower%20Classification%20&%20Augmentation.ipynb)**: Flower recognition system using CNNs and image preprocessing.
 
 ### 📊 Data Analysis
 *Extracting actionable insights from raw data using statistical modeling and interactive dashboards.*
 *   **[Employee Attrition Analysis](https://github.com/user257814938/Exploring-Employee-Attrition-and-Performance-in-a-Corporate-Environment)**: HR analytics exploring turnover factors using statistical analysis.
-*   **[Aircraft Crash Stats (Inference)](./Data%20Analysis/Aircraft%20Crash%20Stats%20(Inference).ipynb)**: Statistical hypothesis testing and T-tests analysis on historical aviation accident data.
-*   **[Apple Stock Time-Series](./Data%20Analysis/Apple%20Stock%20Time-Series.ipynb)**: Financial forecasting pipeline using moving averages, volatility analysis and daily returns distribution.
+*   **[Aircraft Crash Stats (Inference)](./Data%20Analysis/Aircraft%20Crash%20Stats%20(Inference).ipynb)**: Statistical hypothesis testing and T-tests on historical flight data.
+*   **[Apple Stock Time-Series](./Data%20Analysis/Apple%20Stock%20Time-Series.ipynb)**: Financial forecasting using moving averages and volatility analysis.
 *   **[Data Science Salaries (PCA)](./Data%20Analysis/Data%20Science%20Salaries%20(PCA).ipynb)**: Dimensionality reduction and salary normalization.
 *   **[Global Power Plants](./Data%20Analysis/Global%20Power%20Plants.ipynb)**: Geographic distribution analysis of energy generation.
 *   **[Mobile Price Classification](./Data%20Analysis/Mobile%20Price%20Classification.ipynb)**: Feature analysis for price range prediction.
