@@ -1,0 +1,7 @@
+mcp
+streamlit
+python-dotenv
+openai
+anthropic
+httpx
+nest_asyncio

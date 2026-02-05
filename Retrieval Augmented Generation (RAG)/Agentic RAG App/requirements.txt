@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-community
+langchain-groq
+tavily-python
+faiss-cpu
+tiktoken
+python-dotenv
+notebook
+google-search-results
