@@ -10,8 +10,8 @@ This portfolio aggregates implementations of State-of-the-Art models, ranging fr
 
 -   [🧠 Agentic AI](#-agentic-ai)
 -   [🤖 Chatbot AI](#-chatbot-ai)
--   [🗣️ Conversational Voice Agents](#-conversational-voice-agents)
--   [👁️ Computer Vision](#-computer-vision)
+-   [🗣 Conversational Voice Agents](#-conversational-voice-agents)
+-   [👁 Computer Vision](#-computer-vision)
 -   [📊 Data Analysis](#-data-analysis)
 -   [🧠 Deep Learning](#-deep-learning)
 -   [🧪 Fine-Tuning](#-fine-tuning)
@@ -20,7 +20,7 @@ This portfolio aggregates implementations of State-of-the-Art models, ranging fr
 -   [📏 Model Evaluation](#-model-evaluation)
 -   [📚 Natural Language Processing](#-natural-language-processing)
 -   [🔍 Retrieval Augmented Generation (RAG)](#-retrieval-augmented-generation-rag)
--   [🏗️ Transformer Architectures](#-transformer-architectures)
+-   [🏗 Transformer Architectures](#-transformer-architectures)
 -   [💻 User Interfaces AI](#-user-interfaces-ai)
 -   [🌐 Web AI Infrastructure](#-web-ai-infrastructure)
 
@@ -40,7 +40,7 @@ This portfolio aggregates implementations of State-of-the-Art models, ranging fr
 *   **[BlenderBot Transformer Interface](./Chatbot%20AI/BlenderBot%20Transformer%20Interface.ipynb)**: Transformer-based chat application.
 *   **[Mistral 7B Local Chatbot](./Chatbot%20AI/Mistral%207B%20Local%20Chatbot.ipynb)**: Privacy-preserving chatbot using llama.cpp.
 
-### 🗣️ Conversational Voice Agents
+### 🗣 Conversational Voice Agents
 *Production-grade Voice AI Agents developed for real-time telephony and complex interactions.*
 *   **LENEL**: AI Companion Agent providing realistic conversational experiences via [+1 831 231 2999](tel:+18312312999).
 *   **MEDICIS**: AI Medical Agent offering preliminary health guidance on WhatsApp at [+33 7 56 99 82 65](https://wa.me/33756998265).
@@ -49,7 +49,7 @@ This portfolio aggregates implementations of State-of-the-Art models, ranging fr
 *   **URI**: AI Psychology Agent providing active listening and psychological support at [+1 845 493 2849](tel:+18454932849).
 *   **VENI**: AI Legal Agent handling complex consultations for immediate guidance at [+33 7 56 79 62 39](tel:+33756796239).
 
-### 👁️ Computer Vision
+### 👁 Computer Vision
 *Implementing **Convolutional Neural Networks (CNN)** and advanced architectures for image recognition and classification.*
 *   **[Cats vs Dogs Classification](./Computer%20Vision/Cats%20vs%20Dogs%20Classification.ipynb)**: Binary image classification implementation.
 *   **[CNN vs Dense Architecture Benchmark](./Computer%20Vision/CNN%20vs%20Dense%20Architecture%20Benchmark.ipynb)**: Architectural comparison.
@@ -124,7 +124,7 @@ This portfolio aggregates implementations of State-of-the-Art models, ranging fr
 *   **[RAG Pipeline (LangChain/Hugging Face)](./Retrieval%20Augmented%20Generation%20(RAG)/RAG%20Pipeline%20(LangChain-Hugging%20Face).ipynb)**: Implementation of a retrieval system.
 *   **[Vector DB Benchmark](./Retrieval%20Augmented%20Generation%20(RAG)/Vector%20DB%20Benchmark.ipynb)**: FAISS vs ChromaDB comparison.
 
-### 🏗️ Transformer Architectures
+### 🏗 Transformer Architectures
 *Deep dives into model internals: Building **Multi-Head Attention** mechanisms from the ground up.*
 *   **[Transformer LLM from scratch](https://github.com/user257814938/LLM_from_scratch)**: Complete transformer-based language model built from scratch.
 *   **[Multi-Head Attention from Scratch](./Transformer%20Architectures/Multi-Head%20Attention%20from%20Scratch.ipynb)**: Building the Attention mechanism tensor by tensor.
