@@ -31,14 +31,14 @@ This portfolio aggregates implementations of State-of-the-Art models, ranging fr
 ### 🧠 Agentic AI
 *Engineering autonomous systems using **LangGraph** and **Multi-Agent** frameworks for complex decision-making.*
 *   **[Agentic Web Search Bot](./Agentic%20AI/Agentic%20Web%20Search%20Bot)**: Autonomous research agent fetching and summarizing web content using Ollama and Tavily.
-*   **[LangChain Pipelines with Flan-T5](./Agentic%20AI/LangChain%20Pipelines%20with%20Flan-T5.ipynb)**: Orchestrating complex tasks using LLM pipelines.
-*   **[Multi-Agent Penguin Simulation](./Agentic%20AI/Multi-Agent%20Penguin%20Simulation)**: A simulation of interacting autonomous agents in a shared environment.
-*   **[Stateful Interactive Agent (LangGraph)](./Agentic%20AI/Stateful%20Interactive%20Agent%20(LangGraph).ipynb)**: A persistent conversational agent maintaining context across sessions.
+*   **[LangChain Pipelines with Flan-T5](./Agentic%20AI/LangChain%20Pipelines%20with%20Flan-T5.ipynb)**: Orchestrating multi-step LLM workflows and memory using LangChain ecosystem.
+*   **[Multi-Agent Penguin Simulation](./Agentic%20AI/Multi-Agent%20Penguin%20Simulation)**: Multi-agent environment where autonomous entities interact using smolagents framework.
+*   **[Stateful Interactive Agent (LangGraph)](./Agentic%20AI/Stateful%20Interactive%20Agent%20(LangGraph).ipynb)**: Recursive stateful BaristaBot with persistent memory and tools via LangGraph.
 
 ### 🤖 Chatbot AI
 *Designing conversational interfaces with sophisticated **Memory Management** and privacy controls.*
-*   **[BlenderBot Transformer Interface](./Chatbot%20AI/BlenderBot%20Transformer%20Interface.ipynb)**: Transformer-based chat application.
-*   **[Mistral 7B Local Chatbot](./Chatbot%20AI/Mistral%207B%20Local%20Chatbot.ipynb)**: Privacy-preserving chatbot using llama.cpp.
+*   **[BlenderBot Transformer Interface](./Chatbot%20AI/BlenderBot%20Transformer%20Interface.ipynb)**: Interactive conversational interface using Hugging Face Transformers and Gradio with BlenderBot model.
+*   **[Mistral 7B Local Chatbot](./Chatbot%20AI/Mistral%207B%20Local%20Chatbot.ipynb)**: Context-aware local chatbot with extensive memory built on LangChain, llama.cpp and Streamlit.
 
 ### 🗣 Conversational Voice Agents
 *Production-grade Voice AI Agents developed for real-time telephony and complex interactions.*
@@ -51,15 +51,15 @@ This portfolio aggregates implementations of State-of-the-Art models, ranging fr
 
 ### 👁 Computer Vision
 *Implementing **Convolutional Neural Networks (CNN)** and advanced architectures for image recognition and classification.*
-*   **[Cats vs Dogs Classification](./Computer%20Vision/Cats%20vs%20Dogs%20Classification.ipynb)**: Binary image classification implementation.
-*   **[CNN vs Dense Architecture Benchmark](./Computer%20Vision/CNN%20vs%20Dense%20Architecture%20Benchmark.ipynb)**: Architectural comparison.
-*   **[Flower Classification & Augmentation](./Computer%20Vision/Flower%20Classification%20&%20Augmentation.ipynb)**: Image classification with Data Augmentation.
+*   **[Cats vs Dogs Classification](./Computer%20Vision/Cats%20vs%20Dogs%20Classification.ipynb)**: Binary image classification pipeline using CNNs with data augmentation and dropout regularization.
+*   **[CNN vs Dense Architecture Benchmark](./Computer%20Vision/CNN%20vs%20Dense%20Architecture%20Benchmark.ipynb)**: Benchmark comparison between Fully Connected and Convolutional Neural Networks on MNIST dataset.
+*   **[Flower Classification & Augmentation](./Computer%20Vision/Flower%20Classification%20&%20Augmentation.ipynb)**: Multi-class flower recognition system utilizing CNNs and advanced image preprocessing techniques.
 
 ### 📊 Data Analysis
 *Extracting actionable insights from raw data using statistical modeling and interactive dashboards.*
 *   **[Employee Attrition Analysis](https://github.com/user257814938/Exploring-Employee-Attrition-and-Performance-in-a-Corporate-Environment)**: HR analytics exploring turnover factors using statistical analysis.
-*   **[Aircraft Crash Stats (Inference)](./Data%20Analysis/Aircraft%20Crash%20Stats%20(Inference).ipynb)**: Statistical hypothesis testing (T-tests) on historical accident data.
-*   **[Apple Stock Time-Series](./Data%20Analysis/Apple%20Stock%20Time-Series.ipynb)**: Financial forecasting using moving averages and volatility analysis.
+*   **[Aircraft Crash Stats (Inference)](./Data%20Analysis/Aircraft%20Crash%20Stats%20(Inference).ipynb)**: Statistical hypothesis testing and T-tests analysis on historical aviation accident data.
+*   **[Apple Stock Time-Series](./Data%20Analysis/Apple%20Stock%20Time-Series.ipynb)**: Financial forecasting pipeline using moving averages, volatility analysis and daily returns distribution.
 *   **[Data Science Salaries (PCA)](./Data%20Analysis/Data%20Science%20Salaries%20(PCA).ipynb)**: Dimensionality reduction and salary normalization.
 *   **[Global Power Plants](./Data%20Analysis/Global%20Power%20Plants.ipynb)**: Geographic distribution analysis of energy generation.
 *   **[Mobile Price Classification](./Data%20Analysis/Mobile%20Price%20Classification.ipynb)**: Feature analysis for price range prediction.
