@@ -109,8 +109,8 @@ This portfolio aggregates implementations of State-of-the-Art models, ranging fr
 *   **[DistilBERT Attention Viz](./Natural%20Language%20Processing/DistilBERT%20Attention%20Viz.ipynb)**: Explainability in Transformers.
 *   **[GAN-BERT Text Detector](./Natural%20Language%20Processing/GAN-BERT%20Text%20Detector.ipynb)**: Adversarial learning for text detection.
 *   **[GPT-2 Text Generation](./Natural%20Language%20Processing/GPT-2%20Text%20Generation.ipynb)**: Basics of causal language modeling.
-*   **[GPT-2 vs Custom Attention](./Natural%20Language%20Processing/GPT-2%20vs%20Custom%20Attention.ipynb)**: Architectural comparison.
 *   **[NER and Word2Vec](./Natural%20Language%20Processing/NER%20and%20Word2Vec.ipynb)**: Named Entity Recognition and Embeddings.
+*   **[SMS Spam Classification](./Natural%20Language%20Processing/SMS%20Spam%20Classification.ipynb)**: Training models to classify messages as spam or non-spam using GPT-2 vs Custom Attention.
 
 ### 🔍 Retrieval Augmented Generation (RAG)
 *Architecting systems that ground LLMs in private data using **Vector Databases** (Pinecone, FAISS).*
