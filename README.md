@@ -38,7 +38,7 @@ This portfolio aggregates implementations of State-of-the-Art models, ranging fr
 ### 🤖 Chatbot AI
 *Designing conversational interfaces with sophisticated **Memory Management** and privacy controls.*
 *   **[BlenderBot Transformer Interface](./Chatbot%20AI/BlenderBot%20Transformer%20Interface.ipynb)**: BlenderBot chat interface built with Hugging Face Transformers and Gradio.
-*   **[Mistral 7B Local Chatbot](./Chatbot%20AI/Mistral%207B%20Local%20Chatbot.ipynb)**: Context-aware local chatbot with extensive memory built on LangChain, llama.cpp and Streamlit.
+*   **[Mistral 7B Local Chatbot](./Chatbot%20AI/Mistral%207B%20Local%20Chatbot.ipynb)**: Context-aware local chatbot with extensive memory built on LangChain and llama.cpp.
 
 ### 🗣 Conversational Voice Agents
 *Production-grade Voice AI Agents developed for real-time telephony and complex interactions.*
@@ -52,7 +52,7 @@ This portfolio aggregates implementations of State-of-the-Art models, ranging fr
 ### 👁 Computer Vision
 *Implementing **Convolutional Neural Networks (CNN)** and advanced architectures for image recognition and classification.*
 *   **[Cats vs Dogs Classification](./Computer%20Vision/Cats%20vs%20Dogs%20Classification.ipynb)**: Binary image classification with CNNs, data augmentation, and dropout.
-*   **[CNN vs Dense Architecture Benchmark](./Computer%20Vision/CNN%20vs%20Dense%20Architecture%20Benchmark.ipynb)**: Benchmark comparison between Fully Connected and Convolutional Networks on MNIST.
+*   **[CNN vs Dense Architecture Benchmark](./Computer%20Vision/CNN%20vs%20Dense%20Architecture%20Benchmark.ipynb)**: Benchmark comparing Fully Connected vs CNNs on MNIST.
 *   **[Flower Classification & Augmentation](./Computer%20Vision/Flower%20Classification%20&%20Augmentation.ipynb)**: Flower recognition system using CNNs and image preprocessing.
 
 ### 📊 Data Analysis
@@ -110,7 +110,7 @@ This portfolio aggregates implementations of State-of-the-Art models, ranging fr
 *   **[GAN-BERT Text Detector](./Natural%20Language%20Processing/GAN-BERT%20Text%20Detector.ipynb)**: Adversarial learning for text detection.
 *   **[GPT-2 Text Generation](./Natural%20Language%20Processing/GPT-2%20Text%20Generation.ipynb)**: Basics of causal language modeling.
 *   **[NER and Word2Vec](./Natural%20Language%20Processing/NER%20and%20Word2Vec.ipynb)**: Named Entity Recognition and Embeddings.
-*   **[SMS Spam Classification](./Natural%20Language%20Processing/SMS%20Spam%20Classification.ipynb)**: Training models to classify messages as spam or non-spam using GPT-2 vs Custom Attention.
+*   **[SMS Spam Classification](./Natural%20Language%20Processing/SMS%20Spam%20Classification.ipynb)**: Training models to classify spam using GPT-2 vs Custom Attention.
 
 ### 🔍 Retrieval Augmented Generation (RAG)
 *Architecting systems that ground LLMs in private data using **Vector Databases** (Pinecone, FAISS).*
