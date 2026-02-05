@@ -30,7 +30,7 @@ This portfolio aggregates implementations of State-of-the-Art models, ranging fr
 
 ### 🧠 Agentic AI
 *Engineering autonomous systems using **LangGraph** and **Multi-Agent** frameworks for complex decision-making.*
-*   **[Agentic Web Search Bot](./Agentic%20AI/Agentic%20Web%20Search%20Bot)**: An agent capable of performing autonomous web research.
+*   **[Agentic Web Search Bot](./Agentic%20AI/Agentic%20Web%20Search%20Bot)**: Autonomous research agent fetching and summarizing web content using Ollama and Tavily.
 *   **[LangChain Pipelines with Flan-T5](./Agentic%20AI/LangChain%20Pipelines%20with%20Flan-T5.ipynb)**: Orchestrating complex tasks using LLM pipelines.
 *   **[Multi-Agent Penguin Simulation](./Agentic%20AI/Multi-Agent%20Penguin%20Simulation)**: A simulation of interacting autonomous agents in a shared environment.
 *   **[Stateful Interactive Agent (LangGraph)](./Agentic%20AI/Stateful%20Interactive%20Agent%20(LangGraph).ipynb)**: A persistent conversational agent maintaining context across sessions.
