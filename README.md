@@ -137,7 +137,8 @@ This portfolio aggregates implementations of State-of-the-Art models, ranging fr
 *   **[Toolkit Calculator](./User%20Interfaces%20AI/Toolkit%20Calculator.ipynb)**: Multi-tool interface demos.
 
 ### 🌐 Web AI Infrastructure
-*Deploying and hosting open-source AI applications on private servers. Examples of self-hosted platforms include Open WebUI, Flowise, n8n, Bolt, Browser Use, Cal.com, Excalidraw, and Supabase.*
+*Deploying and hosting open-source AI applications on private servers. Examples of self-hosted platforms include Ollama, Open WebUI, Flowise, n8n, Bolt, Browser Use, Cal.com, Excalidraw, and Supabase.*
+*   **[AI](https://ai.vev.cat)**: **Ollama** enabling local deployment and execution of large language models with full data sovereignty.
 *   **[Chat](https://chat.vev.cat)**: **Open WebUI** providing conversational AI interface for multiple LLM models.
 *   **[Agent](https://agent.vev.cat)**: **Flowise** enabling low-code LLM workflow creation via drag-and-drop interface.
 *   **[Automation](https://automation.vev.cat)**: **n8n** orchestrating complex workflow automation across integrated services.
