@@ -138,15 +138,15 @@ This portfolio aggregates implementations of State-of-the-Art models, ranging fr
 
 ### 🌐 Web AI Infrastructure
 *Deploying and hosting open-source AI applications on private servers. Examples of self-hosted platforms include Ollama, Open WebUI, Flowise, n8n, Bolt, Browser Use, Cal.com, Excalidraw, and Supabase.*
-*   **[AI](https://ai.vev.cat)**: **Ollama** enabling local deployment and execution of large language models with full data sovereignty.
-*   **[Chat](https://chat.vev.cat)**: **Open WebUI** providing conversational AI interface for multiple LLM models.
 *   **[Agent](https://agent.vev.cat)**: **Flowise** enabling low-code LLM workflow creation via drag-and-drop interface.
+*   **[AI](https://ai.vev.cat)**: **Ollama** enabling local deployment and execution of large language models with full data sovereignty.
 *   **[Automation](https://automation.vev.cat)**: **n8n** orchestrating complex workflow automation across integrated services.
+*   **[Chat](https://chat.vev.cat)**: **Open WebUI** providing conversational AI interface for multiple LLM models.
 *   **[Code](https://code.vev.cat)**: **Bolt** generating production-ready code through AI-powered development.
+*   **[Database](https://database.vev.cat)**: **Supabase** providing secure database management and authentication services.
 *   **[Operator](https://operator.vev.cat)**: **Browser Use** automating web interactions through AI-driven browser control.
 *   **[Scheduling](https://scheduling.vev.cat)**: **Cal.com** managing appointment booking and calendar coordination.
 *   **[Whiteboard](https://whiteboard.vev.cat)**: **Excalidraw** facilitating collaborative diagramming with hand-drawn aesthetics.
-*   **[Database](https://database.vev.cat)**: **Supabase** providing secure database management and authentication services.
 
 ---
 *Code never lies, comments sometimes do.*
