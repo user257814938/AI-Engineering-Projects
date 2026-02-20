@@ -9,6 +9,7 @@ This portfolio aggregates implementations of State-of-the-Art models, ranging fr
 ## 📑 Table of Contents
 
 -   [🧠 Agentic AI](#-agentic-ai)
+-   [🚀 Applications](#-applications)
 -   [🤖 Chatbot AI](#-chatbot-ai)
 -   [👁 Computer Vision](#-computer-vision)
 -   [🗣 Conversational Voice Agents](#-conversational-voice-agents)
@@ -34,6 +35,10 @@ This portfolio aggregates implementations of State-of-the-Art models, ranging fr
 *   **[LangChain Pipelines with Flan-T5](./Agentic%20AI/LangChain%20Pipelines%20with%20Flan-T5.ipynb)**: Orchestrating stateful multi-step LLM workflows with LangChain.
 *   **[Multi-Agent Penguin Simulation](./Agentic%20AI/Multi-Agent%20Penguin%20Simulation)**: Autonomous multi-agent environment powered by smolagents.
 *   **[Stateful Interactive Agent (LangGraph)](./Agentic%20AI/Stateful%20Interactive%20Agent%20(LangGraph).ipynb)**: Recursive stateful BaristaBot with persistent memory via LangGraph.
+
+### 🚀 Applications
+*Deploying production-ready **SaaS** and **Web Platforms** that integrate advanced AI features for end-users.*
+* **[Pilaw.io](https://pilaw.io)**: Scalable RAG platform with hybrid search and reranking.
 
 ### 🤖 Chatbot AI
 *Designing conversational interfaces with sophisticated **Memory Management** and privacy controls.*
@@ -116,7 +121,6 @@ This portfolio aggregates implementations of State-of-the-Art models, ranging fr
 *Architecting systems that ground LLMs in private data using **Vector Databases** (Pinecone, FAISS).*
 *   **[Agentic RAG App](./Retrieval%20Augmented%20Generation%20(RAG)/Agentic%20RAG%20App)**: Interactive RAG application.
 *   **[DocSearchAI](https://github.com/user257814938/DocSearchAI_RAG)**: CPU-optimized semantic search with FAISS and BART summarization.
-*   **[Pilaw.io](https://pilaw.io)**: Scalable RAG platform with hybrid search and reranking.
 *   **[Pinecone Serverless Reranking](./Retrieval%20Augmented%20Generation%20(RAG)/Pinecone%20Serverless%20Reranking.ipynb)**: Optimization of retrieval precision.
 *   **[RAG Pipeline (LangChain/Hugging Face)](./Retrieval%20Augmented%20Generation%20(RAG)/RAG%20Pipeline%20(LangChain-Hugging%20Face).ipynb)**: Implementation of a retrieval system.
 *   **[Search System](https://github.com/user257814938/Search-System_RAG)**: RAG system with FAISS semantic search and automatic summarization.
