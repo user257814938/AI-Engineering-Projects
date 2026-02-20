@@ -126,8 +126,8 @@ This portfolio aggregates implementations of State-of-the-Art models, ranging fr
 
 ### 🏗 Transformer Architectures
 *Deep dives into model internals: Building **Multi-Head Attention** mechanisms from the ground up.*
-*   **[Transformer LLM from scratch](https://github.com/user257814938/LLM_from_scratch)**: Complete transformer-based language model built from scratch.
 *   **[Multi-Head Attention from Scratch](./Transformer%20Architectures/Multi-Head%20Attention%20from%20Scratch.ipynb)**: Building the Attention mechanism tensor by tensor.
+*   **[Transformer LLM from scratch](https://github.com/user257814938/LLM_from_scratch)**: Complete transformer-based language model built from scratch.
 
 ### 💻 User Interfaces AI
 *Developing interactive Frontends for AI applications using **Streamlit** and **Gradio**.*
