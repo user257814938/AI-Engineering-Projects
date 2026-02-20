@@ -57,10 +57,10 @@ This portfolio aggregates implementations of State-of-the-Art models, ranging fr
 
 ### 📊 Data Analysis
 *Extracting actionable insights from raw data using statistical modeling and interactive dashboards.*
-*   **[Employee Attrition Analysis](https://github.com/user257814938/Exploring-Employee-Attrition-and-Performance-in-a-Corporate-Environment)**: HR analytics exploring turnover factors using statistical analysis.
 *   **[Aircraft Crash Stats (Inference)](./Data%20Analysis/Aircraft%20Crash%20Stats%20(Inference).ipynb)**: Statistical hypothesis testing and T-tests on historical flight data.
 *   **[Apple Stock Time-Series](./Data%20Analysis/Apple%20Stock%20Time-Series.ipynb)**: Financial forecasting using moving averages and volatility analysis.
 *   **[Data Science Salaries (PCA)](./Data%20Analysis/Data%20Science%20Salaries%20(PCA).ipynb)**: Dimensionality reduction and salary normalization.
+*   **[Employee Attrition Analysis](https://github.com/user257814938/Exploring-Employee-Attrition-and-Performance-in-a-Corporate-Environment)**: HR analytics exploring turnover factors using statistical analysis.
 *   **[Global Power Plants](./Data%20Analysis/Global%20Power%20Plants.ipynb)**: Geographic distribution analysis of energy generation.
 *   **[Mobile Price Classification](./Data%20Analysis/Mobile%20Price%20Classification.ipynb)**: Feature analysis for price range prediction.
 *   **[Superstore Interactive Dashboard](./Data%20Analysis/Superstore%20Interactive%20Dashboard.ipynb)**: Business intelligence dashboard with `ipywidgets` and strategy simulator.
