@@ -10,8 +10,8 @@ This portfolio aggregates implementations of State-of-the-Art models, ranging fr
 
 -   [🧠 Agentic AI](#-agentic-ai)
 -   [🤖 Chatbot AI](#-chatbot-ai)
--   [🗣 Conversational Voice Agents](#-conversational-voice-agents)
 -   [👁 Computer Vision](#-computer-vision)
+-   [🗣 Conversational Voice Agents](#-conversational-voice-agents)
 -   [📊 Data Analysis](#-data-analysis)
 -   [🧠 Deep Learning](#-deep-learning)
 -   [🧪 Fine-Tuning](#-fine-tuning)
@@ -40,6 +40,12 @@ This portfolio aggregates implementations of State-of-the-Art models, ranging fr
 *   **[BlenderBot Transformer Interface](./Chatbot%20AI/BlenderBot%20Transformer%20Interface.ipynb)**: BlenderBot chat interface built with Hugging Face Transformers and Gradio.
 *   **[Mistral 7B Local Chatbot](./Chatbot%20AI/Mistral%207B%20Local%20Chatbot.ipynb)**: Context-aware local chatbot with extensive memory built on LangChain and llama.cpp.
 
+### 👁 Computer Vision
+*Implementing **Convolutional Neural Networks (CNN)** and advanced architectures for image recognition and classification.*
+*   **[Cats vs Dogs Classification](./Computer%20Vision/Cats%20vs%20Dogs%20Classification.ipynb)**: Binary image classification with CNNs, data augmentation, and dropout.
+*   **[CNN vs Dense Architecture Benchmark](./Computer%20Vision/CNN%20vs%20Dense%20Architecture%20Benchmark.ipynb)**: Benchmark comparing Fully Connected vs CNNs on MNIST.
+*   **[Flower Classification & Augmentation](./Computer%20Vision/Flower%20Classification%20&%20Augmentation.ipynb)**: Flower recognition system using CNNs and image preprocessing.
+
 ### 🗣 Conversational Voice Agents
 *Production-grade Voice AI Agents developed for real-time telephony and complex interactions.*
 *   **LENEL**: AI Companion Agent providing realistic conversational experiences via [+1 831 231 2999](tel:+18312312999).
@@ -48,12 +54,6 @@ This portfolio aggregates implementations of State-of-the-Art models, ranging fr
 *   **RACHEL**: AI Hospitality Agent streamlining booking management.
 *   **URI**: AI Psychology Agent providing active listening and psychological support at [+1 845 493 2849](tel:+18454932849).
 *   **VENI**: AI Legal Agent handling complex consultations for immediate guidance at [+33 7 56 79 62 39](tel:+33756796239).
-
-### 👁 Computer Vision
-*Implementing **Convolutional Neural Networks (CNN)** and advanced architectures for image recognition and classification.*
-*   **[Cats vs Dogs Classification](./Computer%20Vision/Cats%20vs%20Dogs%20Classification.ipynb)**: Binary image classification with CNNs, data augmentation, and dropout.
-*   **[CNN vs Dense Architecture Benchmark](./Computer%20Vision/CNN%20vs%20Dense%20Architecture%20Benchmark.ipynb)**: Benchmark comparing Fully Connected vs CNNs on MNIST.
-*   **[Flower Classification & Augmentation](./Computer%20Vision/Flower%20Classification%20&%20Augmentation.ipynb)**: Flower recognition system using CNNs and image preprocessing.
 
 ### 📊 Data Analysis
 *Extracting actionable insights from raw data using statistical modeling and interactive dashboards.*
