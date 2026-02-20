@@ -114,15 +114,15 @@ This portfolio aggregates implementations of State-of-the-Art models, ranging fr
 
 ### 🔍 Retrieval Augmented Generation (RAG)
 *Architecting systems that ground LLMs in private data using **Vector Databases** (Pinecone, FAISS).*
-*   **[Pilaw.io](https://pilaw.io)**: Scalable RAG platform with hybrid search and reranking.
-*   **[VEV RAG](https://github.com/user257814938/VEV_RAG)**: High-performance agentic RAG with hybrid search running 100% locally on CPU.
-*   **[Tellow RAG](https://github.com/user257814938/Tellow_RAG)**: Universal document RAG system with LanceDB and Docling.
-*   **[DocSearchAI](https://github.com/user257814938/DocSearchAI_RAG)**: CPU-optimized semantic search with FAISS and BART summarization.
-*   **[Search System](https://github.com/user257814938/Search-System_RAG)**: RAG system with FAISS semantic search and automatic summarization.
 *   **[Agentic RAG App](./Retrieval%20Augmented%20Generation%20(RAG)/Agentic%20RAG%20App)**: Interactive RAG application.
+*   **[DocSearchAI](https://github.com/user257814938/DocSearchAI_RAG)**: CPU-optimized semantic search with FAISS and BART summarization.
+*   **[Pilaw.io](https://pilaw.io)**: Scalable RAG platform with hybrid search and reranking.
 *   **[Pinecone Serverless Reranking](./Retrieval%20Augmented%20Generation%20(RAG)/Pinecone%20Serverless%20Reranking.ipynb)**: Optimization of retrieval precision.
 *   **[RAG Pipeline (LangChain/Hugging Face)](./Retrieval%20Augmented%20Generation%20(RAG)/RAG%20Pipeline%20(LangChain-Hugging%20Face).ipynb)**: Implementation of a retrieval system.
+*   **[Search System](https://github.com/user257814938/Search-System_RAG)**: RAG system with FAISS semantic search and automatic summarization.
+*   **[Tellow RAG](https://github.com/user257814938/Tellow_RAG)**: Universal document RAG system with LanceDB and Docling.
 *   **[Vector DB Benchmark](./Retrieval%20Augmented%20Generation%20(RAG)/Vector%20DB%20Benchmark.ipynb)**: FAISS vs ChromaDB comparison.
+*   **[VEV RAG](https://github.com/user257814938/VEV_RAG)**: High-performance agentic RAG with hybrid search running 100% locally on CPU.
 
 ### 🏗 Transformer Architectures
 *Deep dives into model internals: Building **Multi-Head Attention** mechanisms from the ground up.*
