@@ -38,7 +38,11 @@ This portfolio aggregates implementations of State-of-the-Art models, ranging fr
 
 ### 🚀 Applications
 *Deploying production-ready **SaaS** and **Web Platforms** that integrate advanced AI features for end-users.*
-* **[Pilaw.io](https://pilaw.io)**: Scalable RAG platform with hybrid search and reranking.
+*   **[Calculator](https://calculator.osso.website/)**: Lightweight web calculator for everyday arithmetic operations.
+*   **[Passwordor](https://passwordor.osso.website/)**: Strong password generator with configurable length and complexity.
+*   **[Pilaw](https://pilaw.osso.website/)**: Scalable RAG platform with hybrid search and reranking.
+*   **[Sloganor](https://sloganor.osso.website/)**: Marketing slogan generator to quickly test multiple messaging options.
+*   **[Textor](https://textor.osso.website/)**: Text processing tools for case conversion and spacing cleanup.
 
 ### 🤖 Chatbot AI
 *Designing conversational interfaces with sophisticated **Memory Management** and privacy controls.*
